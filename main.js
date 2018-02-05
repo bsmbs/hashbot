@@ -4,7 +4,7 @@ const google = require('google');
 
 // SEKCJA KONFIGURACJI
 // Tu wpisz swój token:
-client.login('NDAyMTY2NzM5NDQ3NTc4NjI0.DVdq9Q.MW47Qy0EzPO1mBlUHheN0Ju_-TM');
+client.login('');
 // Tu wpisz prefix dla komendy:
 var prefix = '!';
 // KONIEC KONFIGURACJI
