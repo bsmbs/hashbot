@@ -11,4 +11,5 @@ git clone https://github.com/pizza61/hashbot.git
 cd hashbot
 npm install
 node main.js
+// pamiętaj o dodaniu swojego tokenu do main.js
 ```
